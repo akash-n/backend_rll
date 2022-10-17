@@ -2,6 +2,7 @@
 FLOW/EXECUTIONAL CONCEPT:
 
 admin==>maintain lifecycle of customer,Manager and Engineer(crud operation)
+
 manager==>view ticket&their status
             ==>assign complaint to engineer
              ==>view feedback
